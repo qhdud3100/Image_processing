@@ -5,7 +5,7 @@
   
 # function
 - Upload a picture
-- Black and white
+- Gray scale
 - Color filter
 - Brightness control
 - Edge extraction
