@@ -4,7 +4,7 @@
   
   
 # function
-- Upload a picture
+- Upload a image
 - Gray scale
 - Color filter
 - Brightness control
