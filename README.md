@@ -1,11 +1,11 @@
 [2020.7.10]
 # Introduction
-  An image processing program that provides a variety of functions
+  Image processing program that provides multiple functionality.
   
   
 # function
-- Upload a image
-- Gray scale
+- Upload an image
+- Grayscale
 - Color filter
 - Brightness control
 - Edge extraction
